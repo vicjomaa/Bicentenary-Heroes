@@ -2,6 +2,8 @@
 
 **Bicentenary Heroes** is a decision-making game set in the 19th century, a period essential to the Colombian independence process. In a group or alone, the user plays the role of a libertarian army member in charge of achieving Colombia's elusive quest for freedom.  Each mission inspired by the real independence path pushes players facing challenging decisions related to 4 topics. If one of those components is out of balance, the game progressively will guide the players to an uncertain end.
 
+Along the way, the user can share experiences and bits of advice with famous historical characters related to the indigenous communities, pro-independence foreign collaborators, afro-communities, all of them essential in the independence race.
+
 ## How it works ⚙️
 
 * **01**  A friendly tutorial starts with a primary mission. Discover the content hidden inside the card two. <br>
@@ -27,7 +29,7 @@
 
 
 ## Created by ✒️
-* Critertec S.A.S* 
+* Critertec S.A.S 
 * Pedagogic Guidelines: Nataly Opazo 
 * Storytelling and UX: Sebastian Gonima, Nelson Lopez and Juan Murillo
 * Gamification Strategy Rodriguez, Daniel Moreno
