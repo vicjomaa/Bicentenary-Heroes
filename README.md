@@ -1,4 +1,4 @@
-# Bicentenary Heros
+# Bicentenary Heroes
 
 **Bicentenary Heroes** is a decision-making game set in the 19th century, a period essential to the Colombian independence process. In a group or alone, the user plays the role of a libertarian army member in charge of achieving Colombia's elusive quest for freedom.  Each mission inspired by the real independence path pushes players facing challenging decisions related to 4 topics. If one of those components is out of balance, the game progressively will guide the players to an uncertain end.
 
