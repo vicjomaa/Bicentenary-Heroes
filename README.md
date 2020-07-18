@@ -1,48 +1,36 @@
-# Bicentenary Hero <br> 🥇 Winner- Crea Digital 2019 Transmedia Storytelling
+# Bicentenary Heroes
 
-**CREATI** is an Android augmented reality application where
-videos, audios, 3d models, and photos can merge
-into real life on amazing and customizable
-compositions. As a part of the **GUARDIANES**
-project, this tool allows users to overcome their
-status of tech consumers and empowers them as a
-creator of digital content.
-This idea started in 2018 in a conversation with my
-developer partner **Milton Mahecha**. Our
-experiences teaching at schools and as developers
-show us how conditions like connectivity,
-antiquated equipment, or software licenses,
-impossibilities perform activities in some public
-schools. Keeping this in mind, we decided to start
-investing personal time on this project, and now it
-has become a reliable tool for the company.
+**Bicentenary Heroes** is a decision-making game set in the 19th century, a period essential to the Colombian independence process. In a group or alone, the user plays the role of a libertarian army member in charge of achieving Colombia's elusive quest for freedom.  Each mission inspired by the real independence path pushes players facing challenging decisions related to 4 topics. If one of those components is out of balance, the game progressively will guide the players to an uncertain end.
+
+Along the way, the user can share experiences and bits of advice with famous historical characters related to the indigenous communities, pro-independence foreign collaborators, and Afro-communities, all of which are essential in the independence race.
 
 ## How it works ⚙️
 
-* **01**  A friendly tutorial starts with a primary mission. Discover the content hidden inside the card two. <br>
-<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea1.png" height="256" width="455"><image/>
-* **02**  The app identifies the cards or cube face seen by the camera. To interact, you must press over the screen where the target is located.<br>
-<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea2.png" height="256" width="455"><image/>
-* **03**  Change rotation, scale, and position guided by the axis attached to the content.<br>
-<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea3.png" height="256" width="455" ><image/>
-* **04**  As videogames, touchscreen joysticks create an interaction friendly for everyone <br>
-<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea4.png" height="256" width="455"><image/>
-* **05**  This file searching function allows the user to explore file-by-file all the content they want to upload.<br>
-<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea5.png" height="256" width="455"><image/>
-* **06**  3d models, images, and videos can create amazing compositions merging digital content and the real world inside the app.<br>
-<image src="https://media.githubusercontent.com/media/vicjomaa/CREATI/master/Images/crea6.png" height="256" width="455"><image/>
+* **01** The experience hasa guide for teachers to implement the game as a pedagogic tool in classrooms. <br>
+<image src="https://raw.githubusercontent.com/vicjomaa/Bicentenary-Heroes/master/Images/bicen1.png" height="256" width="455"><image/>
+* **02** The main map tracks the user's advance along with each mission is solved. Unblocked content and medals enhance the experience.<br>
+<image src="https://raw.githubusercontent.com/vicjomaa/Bicentenary-Heroes/master/Images/bicen3.png" width="455"><image/>
+* **03** Each mission starts with an intro that encloses the historical context.<br>
+<image src="https://raw.githubusercontent.com/vicjomaa/Bicentenary-Heroes/master/Images/bicen4.png" height="256" width="455" ><image/>
+* **04**A card turns to the left or right to represent a decision. Negative or positive results change the components' value and color. <br>
+<image src="https://raw.githubusercontent.com/vicjomaa/Bicentenary-Heroes/master/Images/bicen7.png" height="256" width="455"><image/>
+* **05**  Medals and objectives are unblocked, along with each mission.<br>
+<image src="https://raw.githubusercontent.com/vicjomaa/Bicentenary-Heroes/master/Images/bicen8.png" height="256" width="455"><image/>
+* **06** Succes screen shows the level of how the player tackeld the mission. As old games, key stores users progress.<br>
+<image src="https://raw.githubusercontent.com/vicjomaa/Bicentenary-Heroes/master/Images/bicen9.png" height="256" width="455"><image/>
 
 
 
 ## Build in 🛠️
 * Unity 2017  -VideoGame editor
-* UI - Ilustrator and Photoshop
+* UI - Ilustrator, Photoshop and After Effects
 
 
 
 
 ## Created by ✒️
-* Critertec S.A.S*  
+* Critertec S.A.S 
+* Pedagogic Guidelines: Nataly Opazo 
 * Storytelling and UX: Sebastian Gonima, Nelson Lopez and Juan Murillo
 * Gamification Strategy Rodriguez, Daniel Moreno
 * UI: Natalia Pinzon, Aljandro Garcia and Dailin 
