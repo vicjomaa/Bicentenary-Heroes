@@ -35,17 +35,16 @@ has become a reliable tool for the company.
 
 
 ## Build in 🛠️
-* Unity 2019  -VideoGame editor
+* Unity 2017  -VideoGame editor
 * UI - Ilustrator and Photoshop
-* Z-Brush  -3d character
 
 
 
 
 ## Created by ✒️
-* Critertec S.A.S* 
-* UX/UI design: Milton Mahecha, Dave Nieves and Victor Mahecha
-* Sound: Dave Nieves.
-* Character: Valentina Diaz
-* Programmer : Juan Poveda, Milton Mahecha and Victor Mahecha.
+* Critertec S.A.S*  
+* Storytelling and UX: Sebastian Gonima, Nelson Lopez and Juan Murillo
+* Gamification Strategy Rodriguez, Daniel Moreno
+* UI: Natalia Pinzon, Aljandro Garcia and Dailin 
+* Animations and Coding : Milton Mahecha and Victor Mahecha.
 
