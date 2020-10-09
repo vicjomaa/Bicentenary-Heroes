@@ -29,6 +29,7 @@ Along the way, the user can share experiences and bits of advice with famous his
 
 
 ## Created by ✒️
+
 * Critertec S.A.S 
 * Pedagogic Guidelines: Nataly Opazo 
 * Storytelling and UX: Sebastian Gonima, Nelson Lopez and Juan Murillo
